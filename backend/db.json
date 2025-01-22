@@ -1,0 +1,60 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "KGF: Chapter 1",
+        "language": "Kannada",
+        "genre": "Action, Drama",
+        "director": "Prashanth Neel",
+        "cast": "Yash, Srinidhi Shetty, Achyuth Kumar",
+        "release_date": "2018-12-21",
+        "voting": 2500,
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5p41FuorOtmVbfD6TT2lFldOCzs.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Kantara",
+        "language": "Kannada",
+        "genre": "Action, Thriller",
+        "director": "Rishab Shetty",
+        "cast": "Rishab Shetty, Sapthami Gowda, Kishore",
+        "release_date": "2022-09-30",
+        "voting": 3400,
+        "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Raajakumara",
+        "language": "Kannada",
+        "genre": "Family, Drama",
+        "director": "Santhosh Ananddram",
+        "cast": "Puneeth Rajkumar, Priya Anand, Anant Nag",
+        "release_date": "2017-03-24",
+        "voting": 2000,
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lbpETE00BtXQ3LVoYlamrfsTEnF.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Charlie 777",
+        "language": "Kannada",
+        "genre": "Drama, Adventure",
+        "director": "Kiranraj K",
+        "cast": "Rakshit Shetty, Sangeetha Sringeri, Charlie (Dog)",
+        "release_date": "2022-06-10",
+        "voting": 2800,
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qArPmXH0aWsT3SEtYl8XrU2Oz48.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Ugramm",
+        "language": "Kannada",
+        "genre": "Action, Thriller",
+        "director": "Prashanth Neel",
+        "cast": "Srimurali, Haripriya, Tilak Shekar",
+        "release_date": "2014-02-21",
+        "voting": 1500,
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AdrI68ggKpSBRE2EbnvajeD53q.jpg"
+      }
+    ]
+  }
+  
