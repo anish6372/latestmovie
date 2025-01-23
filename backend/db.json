@@ -1,60 +1,52 @@
-{
-    "movies": [
-      {
-        "id": 1,
-        "title": "KGF: Chapter 1",
-        "language": "Kannada",
-        "genre": "Action, Drama",
-        "director": "Prashanth Neel",
-        "cast": "Yash, Srinidhi Shetty, Achyuth Kumar",
-        "release_date": "2018-12-21",
-        "voting": 2500,
-        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5p41FuorOtmVbfD6TT2lFldOCzs.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Kantara",
-        "language": "Kannada",
-        "genre": "Action, Thriller",
-        "director": "Rishab Shetty",
-        "cast": "Rishab Shetty, Sapthami Gowda, Kishore",
-        "release_date": "2022-09-30",
-        "voting": 3400,
-        "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg"
-      },
-      {
-        "id": 3,
-        "title": "Raajakumara",
-        "language": "Kannada",
-        "genre": "Family, Drama",
-        "director": "Santhosh Ananddram",
-        "cast": "Puneeth Rajkumar, Priya Anand, Anant Nag",
-        "release_date": "2017-03-24",
-        "voting": 2000,
-        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lbpETE00BtXQ3LVoYlamrfsTEnF.jpg"
-      },
-      {
-        "id": 4,
-        "title": "Charlie 777",
-        "language": "Kannada",
-        "genre": "Drama, Adventure",
-        "director": "Kiranraj K",
-        "cast": "Rakshit Shetty, Sangeetha Sringeri, Charlie (Dog)",
-        "release_date": "2022-06-10",
-        "voting": 2800,
-        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qArPmXH0aWsT3SEtYl8XrU2Oz48.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Ugramm",
-        "language": "Kannada",
-        "genre": "Action, Thriller",
-        "director": "Prashanth Neel",
-        "cast": "Srimurali, Haripriya, Tilak Shekar",
-        "release_date": "2014-02-21",
-        "voting": 1500,
-        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AdrI68ggKpSBRE2EbnvajeD53q.jpg"
-      }
-    ]
+[
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+    "release_date": "2010-07-16",
+    "language": "English",
+    "voting": 8.8,
+    "poster": "https://res.cloudinary.com/dohajvmzw/image/upload/v1737612824/453fcd612a618b7ab86d72d9acb024ba_yqpyxx.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "cast": "Christian Bale, Heath Ledger",
+    "release_date": "2008-07-18",
+    "language": "English",
+    "voting": 9.0,
+    "poster": "http://res.cloudinary.com/your_cloud_name/image/upload/v1634567891/movies/dark_knight.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "cast": "Matthew McConaughey, Anne Hathaway",
+    "release_date": "2014-11-07",
+    "language": "English",
+    "voting": 8.6,
+    "poster": "http://res.cloudinary.com/your_cloud_name/image/upload/v1634567892/movies/interstellar.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "cast": "Tim Robbins, Morgan Freeman",
+    "release_date": "1994-09-23",
+    "language": "English",
+    "voting": 9.3,
+    "poster": "http://res.cloudinary.com/your_cloud_name/image/upload/v1634567893/movies/shawshank_redemption.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "genre": "Crime",
+    "director": "Francis Ford Coppola",
+    "cast": "Marlon Brando, Al Pacino",
+    "release_date": "1972-03-24",
+    "language": "English",
+    "voting": 9.2,
+    "poster": "http://res.cloudinary.com/your_cloud_name/image/upload/v1634567894/movies/godfather.jpg"
   }
-  
+]
