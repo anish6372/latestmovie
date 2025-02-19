@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <div className="bg-gray-800 p-4 w-full fixed top-0 z-10 flex justify-between items-center">
-      <h1 className="text-white text-2xl font-bold">My App</h1>
+      <h1 className="text-white text-2xl font-bold">Movies 365</h1>
       <div className="flex space-x-4">
         {token ? (
           <button

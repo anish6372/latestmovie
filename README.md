@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+// const multer = require('multer');
+// const { CloudinaryStorage } = require('multer-storage-cloudinary');
+// const cloudinary  = require('../config/Cloudinary.config')
+
+
+
+
+
+
+// Cloudinary storage setup
+// const storage = new CloudinaryStorage({
+//   cloudinary: cloudinary,
+//   params: {
+//     folder: 'movies',
+//     allowed_formats: ['jpg', 'png', 'jpeg'],
+//   },
+// });
+
+// const upload = multer({
+//   storage,
+//   limits: { fileSize: 5 * 1024 * 1024 }, // 5MB file size limit
+// });
+
+// Add movie with poster upload
+//  upload.single('poster'),
